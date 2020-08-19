@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="#readme">
-        <img alt="logo" width="50%" src="docs/assets/atx-logo.jpg">
+    <a href="#atx-logo">
+        <img alt="logo" width="20%" src="docs/assets/atx-logo.jpg">
     </a>
 </p>
 <p align="center">
