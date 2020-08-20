@@ -17,6 +17,14 @@ atx-sim-pylab
 🔬 AtxSimPyLab : Research and development for trading strategies, portfolio optimization, AI bots in Jupyter and Python3 🐉 
 
 
+Tools
+-------------------------------------------------------------
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Anaconda](https://img.shields.io/badge/Virtual%20Environment-Anaconda-42B029?style=flat-square&logo=Anaconda&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/Machine%20Learning-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+
+
 Roadmap
 -------------------------------------------------------------
 Project SimPyLab will act as an Research and Development zone for following:
