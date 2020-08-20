@@ -19,7 +19,7 @@ PYTHON = python3
 
 # .PHONY defines parts of the makefile that are not dependant on any specific file
 # This is most often used to store functions
-.PHONY = help setup format lint
+.PHONY = help setup format lint jupyter-start-server
 
 # Defines the default target that `make` will to try to make, or in the case of a phony target, execute the specified commands
 # This target is executed whenever we just type `make`
@@ -32,6 +32,7 @@ help:
 	@echo "$(BOLD_CYAN)make setup$(RESET_STYLES) : Setup 🔬SimPyLab🐉"
 	@echo "$(BOLD_CYAN)make format$(RESET_STYLES) : Format and fix python code in 🔬SimPyLab🐉"
 	@echo "$(BOLD_CYAN)make lint$(RESET_STYLES) : Lint 🔬SimPyLab🐉"
+	@echo "$(BOLD_CYAN)make jupyter-start-server$(RESET_STYLES) : Start Jupyter Notebook"
 	@echo "$(BOLD_BLUE)-------------------------------------------------------------------$(RESET_STYLES)"
 
 
@@ -76,5 +77,13 @@ lint: #: Run static analysis with flake8, radon, mypy and bandit
 	@echo "\n$(BOLD_CYAN)Running pre-commit hooks$(RESET_STYLES) 🏁️️️"
 	pre-commit run --all-files
 	@echo "\n$(BOLD_CYAN)All checks passed$(RESET_STYLES) 🏳️️️️"
+	@echo "\n"
+
+
+jupyter-start-server:
+	@echo "\n$(BOLD_CYAN)Checking Jupyter notebook version$(RESET_STYLES)️"
+	jupyter --version
+	@echo "\n$(BOLD_CYAN)Starting Jupyter notebook . . .$(RESET_STYLES)️"
+	jupyter notebook
 	@echo "\n"
 

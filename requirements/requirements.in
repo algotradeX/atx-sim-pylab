@@ -2,6 +2,17 @@
 # Please add description comment before each requirement
 
 
+# JupyterLab is a web-based interactive development environment for Jupyter notebooks, code, and data
+# Install the Jupyter system, including the notebook, qtconsole, and the IPython kernel.
+jupyter
+# TensorFlow is a Python library for fast numerical computing created and released by Google
+tensorflow
+# Numpy is a general-purpose array-processing package. It provides a high-performance multidimensional array object, and tools for working with these arrays
+numpy
+# pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool
+pandas
+# Plotting library
+matplotlib
 
 
 
