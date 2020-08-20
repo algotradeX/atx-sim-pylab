@@ -19,10 +19,10 @@ atx-sim-pylab
 
 Tools
 -------------------------------------------------------------
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Anaconda](https://img.shields.io/badge/Virtual%20Environment-Anaconda-42B029?style=flat-square&logo=Anaconda&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/Machine%20Learning-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![Python](https://img.shields.io/badge/-Python%20v3.8+-black?style=flat-square&logo=Python)
+![Anaconda](https://img.shields.io/badge/Virtual%20Environment-Conda%20v4.8+-42B029?style=flat-square&logo=Anaconda&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Notebook-Jupyter%20v4.4+-F37626?style=flat-square&logo=Jupyter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/Machine%20Learning-TensorFlow%20v2.3+-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
 
 
 Roadmap
