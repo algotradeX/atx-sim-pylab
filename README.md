@@ -11,9 +11,11 @@
 
 -------------------------------------------------------------
 
+
 atx-sim-pylab
 -------------------------------------------------------------
 🔬 AtxSimPyLab : Research and development for trading strategies, portfolio optimization, AI bots in Jupyter and Python3 🐉 
+
 
 Roadmap
 -------------------------------------------------------------
@@ -22,3 +24,28 @@ Project SimPyLab will act as an Research and Development zone for following:
 2. ML algorithms
 3. Simulation logic
 4. Portfolio Optimization
+
+
+Developer Guidelines
+-------------------------------------------------------------
+1. Create and activate a virtual env for python3
+1. Run `make setup` to install dependencies
+1. Add new dependencies/libraries in `requirements/requirements.in`
+
+
+Contribution Guidelines
+-------------------------------------------------------------
+1. Stargaze this repository
+1. Fork this repository
+1. Commit your changes
+1. Create pull request to master branch
+
+[![](https://sourcerer.io/fame/pritam001/algotradeX/atx-sim-pylab/images/0)](https://sourcerer.io/fame/pritam001/algotradeX/atx-sim-pylab/links/0)
+[![](https://sourcerer.io/fame/pritam001/algotradeX/atx-sim-pylab/images/1)](https://sourcerer.io/fame/pritam001/algotradeX/atx-sim-pylab/links/1)
+[![](https://sourcerer.io/fame/pritam001/algotradeX/atx-sim-pylab/images/2)](https://sourcerer.io/fame/pritam001/algotradeX/atx-sim-pylab/links/2)
+[![](https://sourcerer.io/fame/pritam001/algotradeX/atx-sim-pylab/images/3)](https://sourcerer.io/fame/pritam001/algotradeX/atx-sim-pylab/links/3)
+[![](https://sourcerer.io/fame/pritam001/algotradeX/atx-sim-pylab/images/4)](https://sourcerer.io/fame/pritam001/algotradeX/atx-sim-pylab/links/4)
+[![](https://sourcerer.io/fame/pritam001/algotradeX/atx-sim-pylab/images/5)](https://sourcerer.io/fame/pritam001/algotradeX/atx-sim-pylab/links/5)
+[![](https://sourcerer.io/fame/pritam001/algotradeX/atx-sim-pylab/images/6)](https://sourcerer.io/fame/pritam001/algotradeX/atx-sim-pylab/links/6)
+[![](https://sourcerer.io/fame/pritam001/algotradeX/atx-sim-pylab/images/7)](https://sourcerer.io/fame/pritam001/algotradeX/atx-sim-pylab/links/7)
+
