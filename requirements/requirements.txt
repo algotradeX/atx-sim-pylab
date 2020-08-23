@@ -83,11 +83,11 @@ nbconvert==5.6.1          # via jupyter, notebook
 nbformat==5.0.7           # via ipywidgets, nbconvert, notebook
 nodeenv==1.4.0            # via pre-commit
 notebook==6.1.3           # via jupyter, widgetsnbextension
-numpy==1.18.5             # via -r requirements/requirements.in, h5py, keras-preprocessing, matplotlib, opt-einsum, pandas, scikit-learn, scipy, seaborn, tensorboard, tensorflow
+numpy==1.18.5             # via -r requirements/requirements.in, h5py, keras-preprocessing, matplotlib, opt-einsum, pandas, scikit-learn, scipy, seaborn, ta, tensorboard, tensorflow
 oauthlib==3.1.0           # via requests-oauthlib
 opt-einsum==3.3.0         # via tensorflow
 packaging==20.4           # via bleach
-pandas==1.1.0             # via -r requirements/requirements.in, seaborn
+pandas==1.1.0             # via -r requirements/requirements.in, seaborn, ta
 pandocfilters==1.4.2      # via nbconvert
 parso==0.7.1              # via jedi
 pathspec==0.8.0           # via black
@@ -130,6 +130,7 @@ six==1.15.0               # via absl-py, argon2-cffi, astroid, astunparse, bandi
 sklearn==0.0              # via -r requirements/requirements.in
 smmap==3.0.4              # via gitdb
 stevedore==3.2.0          # via bandit
+ta==0.5.25                # via -r requirements/requirements.in
 tensorboard-plugin-wit==1.7.0  # via tensorboard
 tensorboard==2.3.0        # via tensorflow
 tensorflow-estimator==2.3.0  # via tensorflow

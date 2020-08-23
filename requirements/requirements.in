@@ -19,6 +19,8 @@ sklearn
 seaborn
 #
 tqdm
+# technical indicators
+ta
 
 
 # DO NOT CHANGE BELOW
