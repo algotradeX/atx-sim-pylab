@@ -21,6 +21,8 @@ seaborn
 tqdm
 # technical indicators
 ta
+# backtrader library
+backtrader
 
 
 # DO NOT CHANGE BELOW
