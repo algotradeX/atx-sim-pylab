@@ -21,11 +21,18 @@ seaborn
 tqdm
 # technical indicators
 ta
+# If unable to install TA-Lib, check out : https://github.com/mrjbq7/ta-lib
+TA-Lib
 # backtrader library
 backtrader
 
 
-# DO NOT CHANGE BELOW
+# DB support
+psycopg2
+sqlalchemy
+
+
+############ DO NOT CHANGE BELOW #############
 # Pylint is a Python static code analysis tool which looks for programming errors, helps enforcing a coding standard, sniffs for code smells and offers simple refactoring suggestions
 pylint
 # Black is the uncompromising Python code formatter
